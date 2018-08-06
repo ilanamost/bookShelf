@@ -185,8 +185,8 @@ export default {
 }
 h1.edit-book-h1 {
   margin: 0 auto;
-  margin-bottom: 30px;
   font-weight: bold;
+  margin-top: 5px;
 }
 
 .book-edit-buttons-container {

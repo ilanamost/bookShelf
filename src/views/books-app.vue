@@ -103,7 +103,6 @@ h1.books-main-header {
   background: rgba(87, 94, 133, 0.97);
   color: white;
   box-sizing: border-box;
-  padding: 2em;
   position: fixed;
   top: 0px;
   font-family: "sweetCheeks";
@@ -112,6 +111,8 @@ h1.books-main-header {
 
 .popup .close {
   float: right;
+  margin-top: 5px;
+  margin-right: 7px;
 }
 
 .btn-link.add-book-btn {
