@@ -1,0 +1,13 @@
+/*---Gothic----- */
+@font-face {
+    font-family: 'Gothic';
+    src: url('../fonts/gothic/Gothic.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*---free-writer----- */
+@font-face {
+    font-family: sweetCheeks; 
+    src: url('../fonts/sweetCheeks/SweetCheeks.ttf');
+}

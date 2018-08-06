@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "authorName": "J. K. Rowling",
+    "publishedDate": "1997-06-26",
+    "bookTitle": "The Philosopher's Stone",
+    "imgUrl": "/img/books/thePhilosophersStone.jpg",
+    "genre":"Fantasy",
+    "description": "The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to the Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old."
+  },
+
+  {
+    "id": 2,
+    "authorName": "J. K. Rowling",
+    "publishedDate": "1998-07-02",
+    "bookTitle": "The Chamber of Secrets",
+    "imgUrl": "/img/books/theChamberOfSecrets.jpg",
+    "genre":"Fantasy",
+    "description": "The second novel in the Harry Potter series. The plot follows Harry/'s second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the \"Chamber of Secrets\" has been opened and that the \"heir of Slytherin\" would kill all pupils who do not come from all-magical families. These threats are found after attacks which leave residents of the school \"petrified\" (frozen like stone). Throughout the year, Harry and his friends Ron and Hermione investigate the attacks."
+  },
+
+  {
+    "id": 3,
+    "authorName": "J. K. Rowling",
+    "publishedDate": "1999-09-08",
+    "bookTitle": "The Prisoner of Azkaban",
+    "imgUrl": "/img/books/thePrisonerOfAzkaban.jpg",
+    "genre":"Fantasy",
+    "description": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban who they believe is one of Lord Voldemort's old allies."
+  },
+
+  {
+    "id": 4,
+    "authorName": "Jane Austen",
+    "publishedDate": "1813-01-28",
+    "bookTitle": "Pride and Prejudice",
+    "imgUrl": "/img/books/prideAndPrejudice.jpg",
+    "genre":"Romance",
+    "description": "The story charts the emotional development of the protagonist,Elizabeth Bennet, who learns the error of making hasty judgments and comes to appreciate the difference between the superficial and the essential. The comedy of the writing lies in the depiction of manners, education, marriage, and money during the British Regency period."
+  },
+
+  {
+    "id": 5,
+    "authorName": "George Orwell",
+    "publishedDate": "1949-06-08",
+    "bookTitle": "Nineteen Eighty-Four",
+    "imgUrl": "/img/books/1984.jpg",
+    "genre":"Dystopia",
+    "description": "The novel is set in the year 1984 when most of the world population have become victims of perpetual war, omnipresent government surveillance and public manipulation.In the novel, Great Britain (\"Airstrip One\") has become a province of a superstate named Oceania. Oceania is ruled by the \"Party\", who employ the \"Thought Police\" to persecute individualism and independent thinking. The Party's leader is Big Brother, who enjoys an intense cult of personality but may not even exist."
+  }
+]

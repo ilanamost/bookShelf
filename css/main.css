@@ -1,0 +1,10 @@
+@import './base.css';
+@import './helpers.css';
+@import './fonts.css';
+
+ body{
+    background-image: url("../public/img/backgrounds/background7.jpg");  
+    background-size: cover;  
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+ }
